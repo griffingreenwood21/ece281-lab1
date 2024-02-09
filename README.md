@@ -1,4 +1,9 @@
 # Lab 1: Thirty-One Day Month
+Lab 1 Schematic:
+![image](https://github.com/griffingreenwood21/ece281-lab1/assets/141801624/11ca5973-c768-4ce6-aec6-cff76fb057ce)
+
+For "Don't Care outputs", I set them to 0
+
 
 VHDL template for ECE 281 [Lab 1](https://usafa-ece.github.io/ece281-book/lab/lab1.html)
 
