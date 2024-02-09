@@ -11,8 +11,8 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : thirtyOneDayMonth.vhd
---| AUTHOR(S)     : Capt Dan Johnson, ***Your Name Here***
---| CREATED       : 12/12/2019 Last Modified 06/24/2020
+--| AUTHOR(S)     : C3C Griffin Greenwood
+--| CREATED       : 02/08/2024 Last Modified 02/09/2024
 --| DESCRIPTION   :  This file implements the thirtyOneDaMonth lab.  Using a 4
 --| switch input, the circuit will light up whenever the 4 switches represent a
 --| month with 31 days
